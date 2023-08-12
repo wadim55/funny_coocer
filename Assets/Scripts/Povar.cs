@@ -5,7 +5,7 @@ using UnityEngine;
 public class Povar : MonoBehaviour
 {
     [SerializeField] private GameObject[] picturePovar;
-    private int numberPovar = 0;
+    public int numberPovar = 0;
     
     private void OnEnable()
     {
@@ -31,7 +31,7 @@ public class Povar : MonoBehaviour
            if (numberPovar < 3)
            {
                numberPovar++;
-               print(numberPovar);
+               Eventer.PovarPosition(numberPovar);
                for (var i = 0; i < picturePovar.LongLength; i++)
                {
                    picturePovar[i].SetActive(false);
