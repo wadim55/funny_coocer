@@ -1,25 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e1ffa2a-0e2f-4f23-8a77-7047a3f26445" name="Default Changelist" comment="" />
+    <list default="true" id="afb5dcee-3b0e-4513-a71b-43d03c3b36c6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RedButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Learns/PolGames/UnityProject/My project/Assets/Player.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/Eventer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LeftCockers.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RightButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LeftButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Coocker.cs" />
+        <option value="$PROJECT_DIR$/../Learns/PolGames/UnityProject/My project/Assets/Player.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/RedButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Eventer.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/test.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MouseCounter.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="2TZMFom23RMvT79W5liiwPxEbl8" />
+  <component name="ProjectId" id="2Tc0VQ086My14NcGD7ZpHPH68GP" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -54,13 +60,17 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1e1ffa2a-0e2f-4f23-8a77-7047a3f26445" name="Default Changelist" comment="" />
-      <created>1691246052119</created>
+      <changelist id="afb5dcee-3b0e-4513-a71b-43d03c3b36c6" name="Default Changelist" comment="" />
+      <created>1691327086972</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1691246052119</updated>
-      <workItem from="1691246054848" duration="514000" />
-      <workItem from="1691246683169" duration="186000" />
+      <updated>1691327086972</updated>
+      <workItem from="1691327092519" duration="4075000" />
+      <workItem from="1691331758043" duration="1020000" />
+      <workItem from="1691849856504" duration="2655000" />
+      <workItem from="1691931686934" duration="3693000" />
+      <workItem from="1691935638132" duration="9000" />
+      <workItem from="1691935710804" duration="874000" />
     </task>
     <servers />
   </component>
@@ -71,5 +81,11 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="461" y="164" key="SettingsEditor" timestamp="1691327130069">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1691327130069" />
   </component>
 </project>
